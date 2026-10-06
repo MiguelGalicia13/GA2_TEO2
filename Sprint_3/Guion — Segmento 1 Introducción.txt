@@ -1,7 +1,7 @@
 Guion — Segmento 1: Introducción y Contexto
 Hola a todos. Bienvenidos a nuestra presentación sobre Inteligencia Artificial en la Dirección de Proyectos.
 Somos el equipo integrado por Miguel Ricardo Galicia Urrutia, William Orlando Ambrocio Ardiano, Wilson Adonías Carrera Aguilar, Pablo Daniel Velásquez Hernández y Anyelo Gustavo Hernández Ayala.
-Mi nombre es [Tu Nombre] y estaré a cargo de este primer segmento.
+Mi nombre es Pablo Velásquez y estaré a cargo de este primer segmento.
 ¿Por qué es importante hablar de inteligencia artificial en la gestión de proyectos? Actualmente, la IA está transformando la forma en que se gestionan los proyectos, apoyando procesos como la toma de decisiones y la gestión del conocimiento.
 El PMBOK 8, específicamente en el Anexo X3, destaca el uso de la inteligencia artificial como apoyo para estos procesos, además de permitir la automatización de tareas repetitivas y facilitar que el director de proyecto se enfoque en generar valor.
 El objetivo de este video es explicar qué es la inteligencia artificial aplicada a la dirección de proyectos, cómo se utiliza y de qué manera puede potenciar el trabajo del director de proyecto.
