@@ -1,0 +1,9 @@
+Ahora miraremos esto como se ve esto en la practica
+Imagenemos que se implementa una nueva plataforma de servicio al cliente
+y en el primer mes cuando se hace l.a planificacion la IA nos asiste generando un borrador inicial del cronograma.
+Ya en el mes 3 la IA nos ayuda a generar resumens de las reuniones automaticamente, libreando tiempo para el equipo
+y en el mes 6 controlando el proyecto nos puede detectar un conflico de recursos inminente
+
+En cada una de estas fases siempre se cumple con una regla de oro el flujo de trabajo siempre es el mismo
+el sistema genera una propuesta inicial y el equipo con su criterio profesional lo revisa
+Y solo entonces el plan se aprueba, por lo que la maquina siempre propone y el equipo siempre decide
